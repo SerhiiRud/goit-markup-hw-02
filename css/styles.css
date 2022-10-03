@@ -113,9 +113,6 @@ body {
   clip-path: inset(50%);
   margin: -1px;
 }
-.features {
-  background-color: var(--main-background-color);
-}
 .card-header {
   font-size: 14px;
   line-height: 1.14;
@@ -179,9 +176,6 @@ body {
 /*---------------------PORTFOLIO-------------------------*/
 .current {
   color: var(--accent-color);
-}
-.portfolio {
-  background-color: var(--main-background-color);
 }
 .portfolio-button {
   font-family: inherit;
